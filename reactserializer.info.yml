@@ -1,0 +1,5 @@
+name: React Serialization
+description: 'Custom serializer for React Project'
+package: Web services
+type: module
+core: 8.x
